@@ -10,25 +10,25 @@ Of course, this collection is highly eclectic and tailored to suite my current w
 ## Provided Functions
 This suite currently provides the following interactive functions
 - **transcode_iast-nagari** :
-> Input: Kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /
+> Input: Kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /\
 > Output: कृष्ण उवाच – ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।
 - **transcode_nagari-iast** :
-> Input: कृष्ण उवाच – ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।
-> Output: kṛṣṇa uvāca – oṃ tatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ |
+> Input: कृष्ण उवाच – ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।\
+> Output: kṛṣṇa uvāca: oṃ tatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ |
 - **transcode_iast-slp1** :
-> Input: Kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /
+> Input: Kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /\
 > Output: kfzRa uvAca: oM tat sad iti nirdeSo brahmaRas triviDaH smftaH /
 - **transcode_slp1-iast** :
-> Input: kfzRa uvAca: oM tat sad iti nirdeSo brahmaRas triviDaH smftaH /
+> Input: kfzRa uvAca: oM tat sad iti nirdeSo brahmaRas triviDaH smftaH /\
 > Output: kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /
 - **transcode_iast-hk** :
-> Input: Kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /
+> Input: Kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ /\
 > Output: kRSNa uvAca: oM tat sad iti nirdezo brahmaNas trividhaH smRtaH /
 - **transcode_hk-iast** :
-> Input: kRSNa uvAca: oM tat sad iti nirdezo brahmaNas trividhaH smRtaH /
+> Input: kRSNa uvAca: oM tat sad iti nirdezo brahmaNas trividhaH smRtaH /\
 > Output: kṛṣṇa uvāca: oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ / 
 - **transcode_wylie-tibetan** :
-> Input: | rig 'dzin Tshangs-dbyangs-rgya-mtsho |
+> Input: | rig 'dzin Tshangs-dbyangs-rgya-mtsho |\
 > Output: །རིག་འཛིན་ཚངས་དབྱངས་རྒྱ་མཚོ།
 
 ## Installation
