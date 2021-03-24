@@ -40,3 +40,4 @@ This suite currently provides the following interactive functions
 1. set region (default `M-SPC`) to include the strings you wish to transcode, otherwise the function defaults to the word left of point,
 2. evaluate one of the above functions with `M-x transcode_INPUT-OUTPUT`,
 3. (optional) if you are frequently using one or the other function, consider [creating a keybinding](https://www.gnu.org/software/emacs/manual/html_node/elisp/Key-Binding-Commands.html).
+4. For transcoding a whole file or multiple files in one directory the shellscript `mass-transcode.sh` can be used in the following way: (1) make script executable with `chmod +x /PATH/TO/mass-transcode.sh`, (2) modify the variable `tsloc` to the absolute path of `transcoding-suite.el`, and (3) run script by `/PATH/TO/mass-transcode.sh FILE` or `/PATH/TO/mass-transcode.sh DIRECTORY`, transcoded files will be written separately.
